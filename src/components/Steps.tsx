@@ -10,7 +10,7 @@ services:
   - hostname: app
     type: static
     enableSubdomainAccess: true
-    buildFromGit: https://github.com/zeropsio/recipe-solid-static`.trim();
+    buildFromGit: https://github.com/zeropsio/recipe-solidjs-static`.trim();
 
 const zeropsyaml = `zerops:
   - setup: app
