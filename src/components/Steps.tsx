@@ -31,12 +31,12 @@ const zeropsyaml = `zerops:
       </div>
       <div class="grid grid-cols md:grid-cols-2 font-light gap-5 md:gap-10 pt-4">
         <div class="flex flex-col gap-5">
-          <Code fileLink="https://github.com/zeropsio/recipe-solid-static/blob/main/zerops-project-import.yml" file="zerops-project-import.yml" code={importyaml} />
+          <Code fileLink="https://github.com/zeropsio/recipe-solidjs-static/blob/main/zerops-project-import.yml" file="zerops-project-import.yml" code={importyaml} />
           <div
           class="flex flex-col py-10 h-[260px] rounded-md gap-5 px-10 bg-[#F7F7F7]"
         >
           <a
-            href="https://github.com/zeropsio/recipe-solid-static"
+            href="https://github.com/zeropsio/recipe-solidjs-static"
             target="_blank"
             class="primarybutton rounded-full text-center text-md hover:duration-300 hover:no-underline"
             >Recipe Source Code</a>
@@ -53,7 +53,7 @@ const zeropsyaml = `zerops:
         </div>
         </div>
         <div class="flex flex-col">
-          <Code fileLink="https://github.com/zeropsio/recipe-solid-static/blob/main/zerops.yml" file="zerops.yml" code={zeropsyaml} />
+          <Code fileLink="https://github.com/zeropsio/recipe-solidjs-static/blob/main/zerops.yml" file="zerops.yml" code={zeropsyaml} />
         </div>
       </div>
     </div>
